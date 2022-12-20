@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[Mastodon](https://mastodon.org.uk/@crocog)
+
+
 <!--
 **crocog1/crocog1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
