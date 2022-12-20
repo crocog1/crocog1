@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[Mastodon](https://mastodon.org.uk/@crocog)
-
+<a rel="me" href="https://mastodon.org.uk/@crocog">Mastodon</a>
 
 <!--
 **crocog1/crocog1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
